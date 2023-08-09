@@ -4,6 +4,7 @@ while true do
 s.Volume=1
 s.Pitch=1
 s.Looped=false
-s.SoundId="http://www.roblox.com/asset/?ld=soundid"
+s.SoundId="http://www.roblox.com/asset/?ld=5568992074"
 s:Play()
 end
+
