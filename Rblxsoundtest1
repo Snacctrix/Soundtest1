@@ -8,3 +8,12 @@ s.SoundId="http://www.roblox.com/asset/?ld=5568992074"
 s:Play()
 end
 
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Trix hub injected!"; 
+    Text = "Thanks for using trixhub"; 
+    Icon = "rbxassetid://5568992074"; 
+    Duration = 5;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
