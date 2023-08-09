@@ -1,0 +1,9 @@
+s=Instance.new("Sound", script)
+
+while true do
+s.Volume=1
+s.Pitch=1
+s.Looped=false
+s.SoundId="http://www.roblox.com/asset/?ld=soundid"
+s:Play()
+end
